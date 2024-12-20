@@ -1,6 +1,6 @@
-package app;
+package org.dmytr;
 
-public class MainClass {
+public class Main {
     public static final double CONV_K=2.20462;
 
     public static void main(String[] args) {
