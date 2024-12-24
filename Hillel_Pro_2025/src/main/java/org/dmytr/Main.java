@@ -1,4 +1,4 @@
-package org.lesson_1;
+package org.dmytr;
 
 public class Main {
     public static final double CONV_K = 2.20462;
