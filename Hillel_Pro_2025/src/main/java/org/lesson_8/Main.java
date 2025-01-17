@@ -28,7 +28,7 @@ public class Main {
         if (withdrawal > balance) {
             try {
                 throw new FundsException("Insufficient funds!");
-            } catch (FundsException ex) {
+            } catch (Exception ex) {
                 System.out.println(ex.getMessage());
             }
         } else {
