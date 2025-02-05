@@ -1,4 +1,0 @@
-FILE: src/main/java/NICK_HW/less_10_IO/logFile.txt
-LEVEL: DEBUG
-SIZE: 8
-FORMAT: txt
