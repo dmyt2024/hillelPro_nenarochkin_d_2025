@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca90ec14-1d4d-40c6-a815-cb3fc71f6495" name="Changes" comment="Solution" />
+    <list default="true" id="ca90ec14-1d4d-40c6-a815-cb3fc71f6495" name="Changes" comment="Solution">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/Corrector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lesson_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="HW_NICK" />
+        <entry key="$PROJECT_DIR$/.." value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -51,7 +56,7 @@
     "Application.MainClass.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "lesson__7",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/dmitrijn/Documents/JavaLessons_Pro/lesson_1/Hillel_Pro_2025",
     "node.js.detected.package.eslint": "true",
