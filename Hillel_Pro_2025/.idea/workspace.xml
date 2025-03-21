@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca90ec14-1d4d-40c6-a815-cb3fc71f6495" name="Changes" comment="Solution HW 21 Annotation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="Lesson_21_Annotation" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dmyt2024&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:dmyt2024/hillelPro_nenarochkin_d_2025.git&quot;,
+    &quot;accountId&quot;: &quot;affdd3e6-3855-4cbe-bdf1-46b29729f4d2&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qTJzaNanrWtxx0LZSZiO6H1hrG" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainPetrol.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.HW_15.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.lesson_19.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.lesson_21_Annotation.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dmitrijn/Documents/JavaLessons_Pro/lesson_1/Hillel_Pro_2025/src/main/java/org/HW_13&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/HW_13" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainPetrol">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.HomeWork_less_13.Main" />
+      <module name="Converter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.HomeWork_less_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPetrol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lesson_20.MainPetrol" />
+      <module name="Converter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lesson_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.HW_15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.HW_15.Main" />
+      <module name="Converter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.HW_15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.lesson_19.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lesson_19.Main" />
+      <module name="Converter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lesson_19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.lesson_21_Annotation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lesson_21_Annotation.Main" />
+      <module name="Converter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lesson_21_Annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Hillel_Pro_2025" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.lesson_19.Main" />
+        <item itemvalue="Application.org.HW_15.Main" />
+        <item itemvalue="Application.MainPetrol" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.lesson_21_Annotation.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca90ec14-1d4d-40c6-a815-cb3fc71f6495" name="Changes" comment="" />
+      <created>1734680894443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734680894443</updated>
+      <workItem from="1735303111820" duration="956000" />
+      <workItem from="1735304298379" duration="6788000" />
+      <workItem from="1735625226708" duration="5786000" />
+      <workItem from="1736267107607" duration="1544000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1734681609308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734681609308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change project name">
+      <option name="closed" value="true" />
+      <created>1735023884821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735023884821</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Convertion mile to km">
+      <option name="closed" value="true" />
+      <created>1735028669741</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735028669741</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Convertion celsius to farkengate">
+      <option name="closed" value="true" />
+      <created>1735242638161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735242638161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Solution">
+      <option name="closed" value="true" />
+      <created>1735625860504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735625860504</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Solution">
+      <option name="closed" value="true" />
+      <created>1736193332686</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736193332686</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Solution 13">
+      <option name="closed" value="true" />
+      <created>1739205077097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739205077097</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Solution HW less 13">
+      <option name="closed" value="true" />
+      <created>1739205501077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739205501077</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Solution HW less 14">
+      <option name="closed" value="true" />
+      <created>1739283941310</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739283941310</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Solution HW 19">
+      <option name="closed" value="true" />
+      <created>1741604746604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741604746604</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Solution HW 20">
+      <option name="closed" value="true" />
+      <created>1741761594877</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741761594877</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Solution HW 21 Annotation">
+      <option name="closed" value="true" />
+      <created>1742230481883</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742230481883</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Change project name" />
+    <MESSAGE value="Convertion mile to km" />
+    <MESSAGE value="Convertion celsius to farkengate" />
+    <MESSAGE value="Solution" />
+    <MESSAGE value="Solution 13" />
+    <MESSAGE value="Solution HW less 13" />
+    <MESSAGE value="Solution HW less 14" />
+    <MESSAGE value="Solution HW 19" />
+    <MESSAGE value="Solution HW 20" />
+    <MESSAGE value="Solution HW 21 Annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution HW 21 Annotation" />
+  </component>
+</project>
