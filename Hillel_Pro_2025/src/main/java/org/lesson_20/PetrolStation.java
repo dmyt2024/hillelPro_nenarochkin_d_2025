@@ -21,9 +21,11 @@ public class PetrolStation {
             synchronized (this) {
                 if (amount >= petrol) {
                     amount -= petrol;
-                    System.out.println(Thread.currentThread().getName() + " - Refuel finished. Petrol left: " + amount);
+                    System.out.println(Thread.currentThread().getName()
+                            + " - Refuel finished. Petrol left: " + amount);
                 } else {
-                    System.out.println(Thread.currentThread().getName() + " - Not enough petrol anymore");
+                    System.out.println(Thread.currentThread().getName()
+                            + " - Not enough petrol anymore");
                 }
             }
 

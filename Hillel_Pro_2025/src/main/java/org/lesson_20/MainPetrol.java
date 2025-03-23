@@ -7,6 +7,7 @@ public class MainPetrol {
     public static void main(String[] args) throws InterruptedException {
         PetrolStation petrolStation = new PetrolStation(100);
 
+
         IntStream.rangeClosed(1, 10).mapToObj(i -> new Thread(() ->  {
             petrolStation.doRefuel(refuelValue());})).forEach(Thread::start);
     }
