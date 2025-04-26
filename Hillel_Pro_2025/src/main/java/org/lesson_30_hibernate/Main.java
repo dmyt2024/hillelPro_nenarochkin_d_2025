@@ -67,6 +67,8 @@ public class Main {
 //        studentDao.deleteById(3L);
 //        studentDao.findAll().forEach(System.out::println);
 
+//            HibernateUtil.closeSessionFactory();
+
 
 
 
