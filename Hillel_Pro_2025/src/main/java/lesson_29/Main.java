@@ -23,18 +23,18 @@ public class Main {
 
         EmployeeDAO employeeDAO = new EmployeeDAO(dbConnector.getConnection());
 
-        // employeeDAO.addEmployee(new Employee("Tom",34, "teamlead", 1500));
+ //        employeeDAO.addEmployee(new Employee("Jack",30, "teamlead", 1500));
 
         //employeeDAO.updateEmployee(new Employee(3, "VASYL", 30, "senior developer", 1000));
 
         //employeeDAO.deleteEmployee(4);
 
-        //employeeDAO.getAllEmployees().forEach(System.out::println);
+        employeeDAO.getAllEmployees().forEach(System.out::println);
 
 
         // Завершення зʼєднання
 
-        //dbConnector.disconnect();
+ //       dbConnector.disconnect();
 
 
 
