@@ -21,7 +21,7 @@ public class Main {
 
 
 
-        EmployeeDAO employeeDAO = new EmployeeDAO(dbConnector.getConnection());
+ //       EmployeeDAO employeeDAO = new EmployeeDAO(dbConnector.getConnection());
 
  //        employeeDAO.addEmployee(new Employee("Jack",30, "teamlead", 1500));
 
@@ -29,12 +29,12 @@ public class Main {
 
         //employeeDAO.deleteEmployee(4);
 
-        employeeDAO.getAllEmployees().forEach(System.out::println);
+//        employeeDAO.getAllEmployees().forEach(System.out::println);
 
 
         // Завершення зʼєднання
 
- //       dbConnector.disconnect();
+        dbConnector.disconnect();
 
 
 
