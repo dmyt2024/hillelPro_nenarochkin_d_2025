@@ -88,4 +88,18 @@ public class LibraryTest {
     public void testGetBookCount() {
         assertEquals(0, library.getBookCount());
     }
+
+
+    @Test
+    public void testClearLibrary() {
+        library.addBook(new Book("Чистий код", "Роберт Мартін"));
+
+        assertEquals(1, library.getBookCount());
+
+        library.clearLibrary();
+
+        assertEquals(0, library.getBookCount());
+
+
+    }
 }
