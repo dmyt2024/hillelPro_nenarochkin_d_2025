@@ -1,5 +1,6 @@
 package org;
 
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.lesson_31_JUnitTest.Book;
@@ -17,6 +18,11 @@ public class LibraryTest {
 
     public void setUp() {
         library = new Library();
+    }
+
+    @AfterEach
+    public void cleanLibrary() {
+        library.clearLibrary();
     }
 
     @Test
