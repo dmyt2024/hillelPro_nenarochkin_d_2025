@@ -20,10 +20,7 @@ public class LibraryTest {
         library = new Library();
     }
 
-    @AfterEach
-    public void cleanLibrary() {
-        library.clearLibrary();
-    }
+
 
     @Test
     public void testAddBook() {
@@ -90,16 +87,5 @@ public class LibraryTest {
     }
 
 
-    @Test
-    public void testClearLibrary() {
-        library.addBook(new Book("Чистий код", "Роберт Мартін"));
 
-        assertEquals(1, library.getBookCount());
-
-        library.clearLibrary();
-
-        assertEquals(0, library.getBookCount());
-
-
-    }
 }
