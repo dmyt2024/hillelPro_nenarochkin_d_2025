@@ -33,4 +33,9 @@ public class Library {
 
         return books.size();
     }
+
+    public void clearLibrary() {
+        books.clear();
+
+    }
 }
