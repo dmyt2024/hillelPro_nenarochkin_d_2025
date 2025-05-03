@@ -7,8 +7,8 @@ import java.util.Set;
 
 public class Main {
     public static void main(String[] args) {
-//        HibernateUtil hibernateUtil = new HibernateUtil();
-//        StudentDao studentDao = new StudentDao(HibernateUtil.getSessionFactory());
+        HibernateUtil hibernateUtil = new HibernateUtil();
+        StudentDao studentDao = new StudentDao(HibernateUtil.getSessionFactory());
 //
 //        Student studentOleg = new Student("Oleg", "Petrov", "petrov@gmail.com");
 //        Student studentAnna = new Student("Anna", "Popova", "anna@gmail.com");
